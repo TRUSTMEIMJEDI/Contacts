@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Marcin</first_name>
+	<last_name>Friedrich</last_name>
+	<phone_number>1234</phone_number>
+	<notes>moj numer</notes>
+</contact>
+<contact>
+	<first_name>Justyna</first_name>
+	<last_name>Friedrich</last_name>
+	<phone_number>5678</phone_number>
+	<notes>siostra</notes>
+</contact>
+<contact>
+	<first_name>Mateusz</first_name>
+	<last_name>Myśliwiec</last_name>
+	<phone_number>1111</phone_number>
+	<notes>ziomek</notes>
+</contact>
+<contact>
+	<first_name>Kacper</first_name>
+	<last_name>Hermanowicz</last_name>
+	<phone_number>2222</phone_number>
+	<notes>ziomeczek</notes>
+</contact>
+</contacts>
